@@ -2,7 +2,6 @@
 
 #### **A computational approach to robustly enumerating the abundance of tissue-cellular origins using circulating exLR-seq profiles**
 
-![](G:\F.new\exLR-origin\results.arrange\文章整理\github_material\Graphical abstract-01.jpg)
 
 ##### **Summary**
 
