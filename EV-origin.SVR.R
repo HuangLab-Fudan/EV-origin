@@ -70,5 +70,3 @@ do.exLR-origin <- function(avdata.m, ref.m, nu.v) {
 }
 exLR-origin.results <- do.exLR-origin(avdata.m, ref.m, nu.v)
 ##>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-head(mtcars)
